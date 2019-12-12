@@ -86,7 +86,7 @@ inputs = list(dep.var.=list(d),ind.var.=list(i),usercov.=list(),cov.fixed=list("
 
 
 # DO NOT MAKE MODIFICATIONS AFTER THIS POINT (other than to change the output file at the end)
-# all comments after this point (other than file output with sink at end) were in teh script when I downloaded it from the NDA DEAP
+# all comments after this point (other than file output with sink at end) were in the script when I downloaded it from the NDA DEAP
 
 ##########################
 ##  user customization  ##
